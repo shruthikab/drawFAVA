@@ -1,6 +1,6 @@
 services:
    jupyter:
-      image: nben/drawfava:latest
+      image: nben/drawfava:2026-04-01
       ports:
          - "127.0.0.1:${DRAWFAVA_PORT:-8181}:${DRAWFAVA_PORT:-8181}"
       hostname: localhost
