@@ -1,0 +1,170 @@
+figure_size: 330
+style:
+  V1 Foveal Point:
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  V1 UVM (ventral):
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  V1 LVM (dorsal):
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  V1 Periphery:
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  V2 Foveal Point:
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  V2 UVM (ventral):
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  V2 LVM (dorsal):
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  V2 Ventral Periphery:
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  V2 Dorsal Periphery:
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  V3 Foveal Point:
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  V3 UVM (ventral):
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  V3 LVM (dorsal):
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  V3 Ventral Periphery:
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  V3 Dorsal Periphery:
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  hV4 Outer:
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  VO Outer:
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  hV4|VO Boundary:
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  VO1|2 Boundary:
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  V3a|b Outer:
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  V3a|b Inner Boundary:
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  IPS0 Outer:
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  LO1 Outer:
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  0.5 Degrees Eccentricity:
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  1.0 Degrees Eccentricity:
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  2.0 Degrees Eccentricity:
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  4.0 Degrees Eccentricity:
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  7.0 Degrees Eccentricity:
+    color: '#8c8ce6'
+    linestyle: solid
+    linewidth: 2
+    markersize: 0
+    visible: true
+  null:
+    color: '#f7f7f7'
+    linestyle: solid
+    linewidth: 2
+    markersize: 4
+    visible: true
